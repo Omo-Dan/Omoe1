@@ -50,6 +50,11 @@
    .search-box{
        width:500px !important;
    }
+   .list-divider{
+       border-bottom:2px solid green;
+       margin-bottom:20px;
+       padding-bottom:20px;
+   }
    </style> 
 </body>
 </html>
